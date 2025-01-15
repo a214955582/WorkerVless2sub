@@ -38,7 +38,7 @@ let httpsPorts = ["2053", "2083", "2087", "2096", "8443"];
 let 有效时间 = 7;
 let 更新时间 = 3;
 let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
-let proxyIPPool = [];
+let proxyIPPool = ['ProxyIP.US.fxxk.dedyn.io', 'ProxyIP.SG.fxxk.dedyn.io', 'ProxyIP.JP.fxxk.dedyn.io'];
 let socks5Data;
 let alpn = 'h3';
 let 网络备案 = `<a href='https://t.me/CMLiussss'>萌ICP备-20240707号</a>`;//写你自己的维护者广告
